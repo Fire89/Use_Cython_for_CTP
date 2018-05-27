@@ -1,0 +1,6 @@
+
+build/lib.win-amd64-3.7/cmdapi.cp37-win_amd64.pyd
+cmdapi.cpp
+build/temp.win-amd64-3.7/Release/cmdapi.cp37-win_amd64.exp
+build/temp.win-amd64-3.7/Release/cmdapi.cp37-win_amd64.lib
+build/temp.win-amd64-3.7/Release/cmdapi.obj

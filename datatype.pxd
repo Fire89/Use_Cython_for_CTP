@@ -1,0 +1,10 @@
+cdef extern from  "ThostFtdcUserApiDataType.h" nogil:    
+    ctypedef char TThostFtdcDateType[9]
+    ctypedef char TThostFtdcBrokerIDType[11]
+    ctypedef char TThostFtdcUserIDType[16]
+    ctypedef char TThostFtdcPasswordType[41]
+    ctypedef char TThostFtdcProductInfoType[11]
+    ctypedef char TThostFtdcProtocolInfoType[11]
+    ctypedef char TThostFtdcMacAddressType[21]
+    ctypedef char TThostFtdcIPAddressType[16]
+    ctypedef char TThostFtdcLoginRemarkType[36]
