@@ -10,3 +10,5 @@ build/temp.win-amd64-3.7/Release/cmdapi.obj
 天勤终端 量化测试/用于cython生成python模块/build/lib.win-amd64-3.7/y_tools.cp37-win_amd64.pyd
 天勤终端 量化测试/y_tools.py
 天勤终端 量化测试/用于cython生成python模块/build/temp.win-amd64-3.7/Release/y_tools.obj
+天勤终端 量化测试/__pycache__/y_tools.cpython-37.pyc
+天勤终端 量化测试/testDemo.py
